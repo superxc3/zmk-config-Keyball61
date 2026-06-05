@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/zmkfirmware
     - name: inorichi
       url-base: https://github.com/inorichi
- projects:
+  projects:
     - name: zmk
       remote: zmkfirmware
       revision: v0.3
